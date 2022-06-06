@@ -343,6 +343,7 @@ dt, dd {
 
 dt {
      font-style: italic;
+     font-size: 1.5rem;
 }
 
 #dictionary {
@@ -534,9 +535,6 @@ footer p {
           margin: 1rem 0.5rem;
           flex: 1 1 70%;
           letter-spacing: 0.1rem;
-     }
-     dt {
-          font-size: 1.5rem;
      }
 
 }
