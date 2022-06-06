@@ -3,6 +3,9 @@ A simple front end for a guide to jargon using the jargonauts API.
 
 **Demo:** https://h-yung.github.io/jargonauts-guide/
 
+![guide intro screen](https://i.postimg.cc/d0Yk0mS4/jargon-anim.gif)
+![guide demo screen](https://i.postimg.cc/wBmVCVR2/jargon-desktop-2.jpg)
+
 ## How it's made
 
 **Tech used:** HTML, CSS, JavaScript. 
@@ -20,5 +23,6 @@ Lessons learned
 - Plan out a more modularized approach to building different parts of the app - so that it's easier to see repetition/consistent styling patterns vs. isolate unique areas.
 - Not yet following OOP principles in the client-side JS. I anticipate building typeahead functionality following more OOP best practices.
 
-Related projects
-**jargonauts API:** https://github.com/h-yung/jargonauts-api/
+## Related projects
+
+**Jargonauts API:** https://github.com/h-yung/jargonauts-api/
