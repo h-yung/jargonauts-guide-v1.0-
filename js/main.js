@@ -87,7 +87,7 @@ async function getDictionary(){ //is async - using fetch for now
 }
 
 function guessInput() {
-    let wipWord = searchBox.value
+    let wipWord = searchBox.value.toLowerCase()
     if (wipWord.length < 1) return; //exit if empty
     else {
         if (dictionary === undefined || dictionaryList === undefined) getDictionary();
