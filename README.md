@@ -13,7 +13,7 @@ A simple front end for a guide to jargon using the jargonauts API.
 A lightweight responsive front end for the jargonauts API. 
 
 ## Optimizations
-- Create typeahead functionality (although the current suggestion approach may also be worth keeping)
+- Add typeahead functionality (although the current suggestion approach may also be worth keeping)
 - Clean up CSS and reduce general specificity (limit use of ids, etc.)
 - Relaunch as a single full-stack app
 - Connect to MongoDB and build out more robust functionality allowing for direct user suggestions?
