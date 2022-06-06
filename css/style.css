@@ -496,6 +496,11 @@ footer p {
      #top {
           background: linear-gradient(hsla(0, 0%, 0%, 0), hsl(0, 0%, 0%))
      }
+
+     #generator {
+          background: linear-gradient(hsl(0, 0%, 0%), hsla(0, 0%, 0%, 0.7))
+     }
+
      section[data-type="pseudoNav"],
      #about,
      footer {

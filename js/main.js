@@ -96,7 +96,7 @@ function guessInput() {
 }
 
 function giveResult(){
-    let thingToFind = searchBox.value
+    let thingToFind = searchBox.value.toLowerCase()
         if (dictionary[thingToFind]){
             searchResult.textContent = thingToFind
             definition.textContent = dictionary[thingToFind]
