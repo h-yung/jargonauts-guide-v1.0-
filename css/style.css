@@ -504,7 +504,7 @@ footer p {
      section[data-type="pseudoNav"],
      #about,
      footer {
-          background: hsla(0, 0%, 0%, 0.825);
+          background: hsl(0, 0%, 0%);
      }
 
 }
