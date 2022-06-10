@@ -1,13 +1,11 @@
-# Jargonauts guide
-A simple front end for a guide to jargon using the jargonauts API. 
-
-**Demo:** https://h-yung.github.io/jargonauts-guide/
+# Jargonauts guide [RETIRED]
+V1 of a simple front end for a guide to jargon using the jargonauts API. 
+Replaced by the last update to [Jargonauts](https://github.com/h-yung/jargonauts-api/) which is now a full stack web app, which has the most updated background on the project.
 
 ![guide intro screen](https://i.postimg.cc/d0Yk0mS4/jargon-anim.gif)
 ![guide demo screen](https://i.postimg.cc/wBmVCVR2/jargon-desktop-2.jpg)
 
 ## How it's made
-
 **Tech used:** HTML, CSS, JavaScript. 
 
 A lightweight responsive front end for the jargonauts API. 
